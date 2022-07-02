@@ -49,7 +49,7 @@ assignment.countEvenNumbers = countEvenNumbers;
 function celsiusToFahrenheit(arrayOfNumbers) {
     return arrayOfNumbers.map(num => Math.trunc(num * 9 / 5 + 32));
 }
-assignment.celsiusToFahrenheit = celsiusToFahrenheit;
+//assignment.celsiusToFahrenheit = celsiusToFahrenheit;
 
 
 // ========================
